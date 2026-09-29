@@ -1,0 +1,15 @@
+nemoguardrails
+fastembed
+langchain-text-splitters
+langchain
+langchain-core
+langchain-groq
+faiss-cpu
+RecursiveCharacterTextSplitter
+langchain_ollama
+pydantic
+rank_bm25
+python-dotenv
+portkey-ai
+langchain-google-genai
+streamlit
